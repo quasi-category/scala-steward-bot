@@ -18,4 +18,4 @@ jobs:
           repos-file: _repos.md
           author-email: me@scala-steward.org
           author-name: Scala Steward
-          cache-ttl: 0s
+          cache-ttl: 30m
