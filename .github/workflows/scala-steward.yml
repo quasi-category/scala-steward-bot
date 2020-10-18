@@ -1,6 +1,10 @@
-on:
-  schedule:
-    - cron: '50 */2 * * *'
+# on:
+#   schedule:
+#     - cron: '50 */2 * * *'
+
+name: scala-steward
+
+on: [push, pull_request]
 
 jobs:
   scala-steward:
