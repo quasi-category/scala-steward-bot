@@ -1,0 +1,3 @@
+- quasi-category/doobie-agroal
+- quasi-category/caffeine4cats
+- quasi-category/time4s
